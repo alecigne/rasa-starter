@@ -1,0 +1,5 @@
+*.DS_Store
+*.pyc
+/bot_engine/nlu/models/
+/bot_engine/dlg/model/
+venv/

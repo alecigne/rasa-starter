@@ -1,0 +1,8 @@
+#+TITLE: Rasa Starter
+
+A [[https://rasa.com/docs/getting-started/overview/][Rasa]] starter project, based on:
+
+- [[https://rasa.com/docs/core/0.10.4/][Rasa Core]] 0.10.4
+- [[https://rasa.com/docs/nlu/][Rasa NLU]]
+- [[https://github.com/scalableminds/chatroom][Chatroom]], a "React-based Chatroom Component for Rasa Stack",
+  included as a submodule.

@@ -1,0 +1,15 @@
+intents:
+  # add your intents
+
+entities:
+  # add your entities
+
+slots:
+  # add your slots
+
+templates:
+  # templates the bot should respond with
+
+actions:
+  # all the utter actions from the templates, plus any custom actions
+  # - actions.ActionExample

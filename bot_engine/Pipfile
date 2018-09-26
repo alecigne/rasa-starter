@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+twisted = {path = "./lib/Twisted-18.7.0-cp36-cp36m-win_amd64.whl"}
+rasa-core = "==0.10.4"
+sklearn-crfsuite = "*"
+spacy = "*"
+pypiwin32 = "*"
+klein = "*"
+en_core_web_md = { file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.0.0/en_core_web_md-2.0.0.tar.gz" }
+
+[dev-packages]
+autopep8 = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.6"
